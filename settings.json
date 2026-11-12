@@ -1,0 +1,10 @@
+{
+    "theme": "superhero",
+    "grid_visible": false,
+    "line_colour": "lime",
+    "line_width": 4,
+    "floor_images": [
+        "example.png",
+        "example2.png"
+    ]
+}
